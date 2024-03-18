@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python/Bash-cyan" alt="Language" />
+</p>
 
 ## Created by Atul
 
@@ -27,5 +28,4 @@
   ```bash
   python3 main.py
   ```
-</p>
 Enjoy :)

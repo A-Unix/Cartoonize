@@ -91,6 +91,7 @@ def cartoonize_video(input_path, output_path):
         output_video.release()
         
         print(Fore.LIGHTMAGENTA_EX + "Cartoonization complete. Video saved to:\n", output_path + Fore.YELLOW)
+        print(Fore.MAGENTA + "If you liked my work, then don't forget to give a star to my repo :)")
         
     except Exception as e:
         print(Fore.LIGHTRED_EX + "An error occurred:", e + Fore.RED)

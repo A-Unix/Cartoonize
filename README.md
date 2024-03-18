@@ -28,4 +28,4 @@
   ```bash
   python3 main.py
   ```
-Enjoy :)
+If you liked my work, then don't forget to give a star to my repo :), Enjoy :)

@@ -16,7 +16,7 @@
  ```bash
  cd Cartoonize
  ```
- ### ### Get permissions
+ ### Get permissions
   ```bash
   chmod +x setup.sh main.py
   ```

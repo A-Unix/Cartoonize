@@ -5,7 +5,7 @@ echo -e "Checking if the script is running as root!"
 # Check if script is running as root user
 if [[ $EUID -ne 0 ]]; then
     echo "This script must be run as root. Please use 'sudo' along with the command or login as root user."
-    sleep 1
+    sleep 4
     echo "Saving Preferences for next try!"
     sleep 7
     exit 1
